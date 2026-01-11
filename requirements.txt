@@ -1,0 +1,13 @@
+streamlit
+chromadb
+sentence-transformers
+pandas
+networkx
+pyvis
+pymupdf
+openpyxl
+pytest
+plotly
+scikit-learn
+jupyter
+watchdog
